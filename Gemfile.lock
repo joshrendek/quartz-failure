@@ -1,0 +1,11 @@
+GEM
+  remote: https://rubygems.org/
+  remote: https://rails-assets.org/
+  specs:
+    quartz (0.2.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  quartz
